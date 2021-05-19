@@ -14,7 +14,7 @@ gem 'graphql-client', '~>0.12.1', require: false
 gem 'hashie', '~>3.3'
 gem 'lru_redux', '~>1.1'
 gem 'memoist', '~>0.15.0'
-gem 'nokogiri', '~>1.10'
+gem 'nokogiri', '~>1.11'
 gem 'numbers_in_words', '~>0.4.0'
 gem 'pg', '~>1.1'
 gem 'pry', require: false
